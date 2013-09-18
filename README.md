@@ -7,6 +7,9 @@ Double A is a responsive tool for locating named breakpoints in a stylesheet. It
 
 Double A works by appending a fixed tab to the bottom of your webpage that shows both the current pixel width of the viewport and a color. The color of the tab is representative of the area where the CSS error will happen. While you can assign your own colors, we suggesting sticking with the ROYGBIV mnemonic, as it is easy to remember.
 
+#### Demo
+[http://mad-pow.github.io/Double-A/](You can test out Double A by clicking here)
+
 You can easily adjust the breakpoints and the colors by passing in different parameters. Please refer to the sample code below:
 
 #### Code Example
